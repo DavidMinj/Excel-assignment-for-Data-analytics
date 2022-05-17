@@ -1,0 +1,31 @@
+1. What does the dollar($) sign do?
+A dollar sign means a currency format, but it has another common use: indicating absolute cell references in formulas.
+
+2. How to Change the Reference from Relative to Absolute (or Mixed)?
+By default, Cell reference is relative. we need to add the dollar sign before the column notation and the row number.
+Example to do this operation : A1  is a relative cell reference, and it would become absolute when you make it $A$1.
+Or you can use a fast way select  the cell reference then pressing F2, it will change it.
+
+3. Explain the order of operations in excel?
+The order of operations is a rule that tells the correct sequence of steps for evaluating a math expression in Excel. We can remember the order using PEMDAS: Parentheses, Exponents, Multiplication and Division (from left to right), Addition and Subtraction (from left to right).
+
+4. What, according to you, are the top 5 functions in excel and write a basic syntax for any of two?
+The SUM Function. The sum function is the most used function when it comes to computing data on Excel.
+Syntax : SUM(number1,[number2] ,…)
+The TEXT Function : The Text Function is used to convert numbers to text within a spreadsheet.
+Syntax : TEXT(value, format_text)
+
+The VLOOKUP Function : VLOOKUP function is a premade function in Excel, which allows searches across columns.
+Syntax : VLOOKUP (lookup_value, table, col_index, [range_lookup])
+
+The AVERAGE Function : AVERAGE function in Excel is to calculate the center or mean.
+Syntax : AVERAGEA(value1, value2,... value30).
+
+The CONCATENATE Function : The CONCATENATE function concatenates (joins) join up to 30 values together and returns the result as text.
+Syntax : CONCATENATE (text1, text2, [text3], ...)
+
+5. When would you use the subtotal function?
+The SUBTOTAL function is used when you display a Total row in an Excel Table. Excel inserts the SUBTOTAL function automatically, and you can use a drop-down menu to switch behavior and show max, min, average, etc.
+
+6. What is the syntax of the vlookup function? Explain the terms in it?
+The syntax of VLookup is VLOOKUP (value, table, col_index, range_lookup).

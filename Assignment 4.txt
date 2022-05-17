@@ -1,0 +1,25 @@
+1.To use the ribbon commands, what menu and grouping of commands will you find the Insert and Delete command?
+Basically, there are six main categories for commands: one-click, toggle, split buttons, drop-down and tick box. 
+The Insert and Delete commands can be found in two places: you can find them under the Home menu in the ribbon
+
+2. If you set a row height or column width to 0 (zero), what happens to the row and column?
+If a column's width is set to zero (0), the column is hidden.
+
+3. Is there a need to change the height and width in a cell? Why?
+Select the column or columns that you want to change. On the Home tab, in the Cells group, click Format.
+
+4. What is the keyboard shortcut to unhide rows?
+We can quickly unhide all rows and columns by using control + A to select the entire worksheet
+
+5. How to hide rows containing blank cells?
+Below is the procedure hide rows :
+Select the range that contains empty cells you want to hide.
+On the Home tab, in the Editing group, click Find & Select > Go To Special.
+In the Go To Special dialog box, select the Blanks radio button, and click OK. ...
+Press Ctrl + 9 to hide the corresponding rows.
+
+6. What are the steps to hide the duplicate values using conditional formatting in excel?
+below are the steps :
+1. Select the range you want to hide duplicates. 
+2. Then click Conditional Formatting > Highlight Cells Rules > Duplicate Values under Home tab. ...
+3. In the Duplicate Values dialog box, select Custom Format in the values with drop-down list, and then click the OK button.
